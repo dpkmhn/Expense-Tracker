@@ -1,5 +1,5 @@
 # Expense Tracker
-A full stack personal expense tracker with all CRUD functionalities developed using ASP.NET Core MVC and
+A full stack personal expense tracker with all CRUD functionalities.
 
 ## Tools and Technologies used
 
